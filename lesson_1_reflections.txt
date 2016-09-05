@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By viewing the diff between the two versions of the asteroid file, I could easily spot what had changed in the file.
+Something that could have taken upwards of 10 minutes took me a little less than 1. This tool is not only easy to use, but powerful as well.
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By having access to all versions of a file, you can compare these versions to one another to remove blemishes and bad coding practice.
+These older versions also allow you to revert or compare changes to create better code or save a project that might otherwise be very hard to recover.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manual committing allows for more control by the user on previous versions and diff comparisons, whereas autosave acts as sort of a safety net incase the user doesn't save.
+With manual, the user may forget to save, whereas with auto saving the user may quit without saving and end up with an unusable previous version that was autosaved.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is more oriented for large scale projects, and thus the ability to push a large number of files for consistency makes sense.
+Google Docs is more commonly used for single files, like text documents, and so the ability to push and maintain many files at once is less necessary.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log lets you view older versions of any file, even if you didnt create it, and diff lets you view the changes.
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Version control could make you a bit reckless by giving you insurance that you can always revert to if you make a change.
+This can payoff, however, as sometimes the solution could be a bit risky and time consuming, so a quick fix could speed up the process.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'll try using Git for my next big project, either as a student or for myself.
